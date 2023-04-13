@@ -1,4 +1,4 @@
-# learn-cve
+# learn to find CVE
 do you want to learn about CVE?, This is the right place to learn CVE
 
 what is cve, cve or called Common Vulnerabilities and Exposures is a system that provides methods about information security vulnerabilities and exposures that are known to everyone. every vulnerability found will be a report which will later be used as documentation. CVE consists of Year and Alphanumeric Id (CVE-Year-ID). The meaning of the brackets beside is CVE - Year found - ID This is the number assigned to a security flaw or vulnerability.
