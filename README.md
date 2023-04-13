@@ -14,6 +14,6 @@ CVE has a general level of vulnerability assessment, this is the standard CVE va
 
 Example: you found a vulnerability that could have other people's access rights.
 
-from this example that the vulnerability is very severe because he has access rights and moreover can remote access to other users.
+from this example that the vulnerability is very severe because he has access rights and moreover can remote access to other users. there are still interesting notes from me, thank you, hopefully they will be educational material.
 
 Thank You.
